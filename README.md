@@ -4,4 +4,8 @@ The world’s largest WordPress child theme library. Download a [child theme](ht
 
 Alternatively, create your own [custom WordPress child theme](https://childthemewp.com/create-custom-child-theme/) theme using the online tool.
 
-Author slibdesign.com
+Project start: April 2020
+
+Number of child themes created: 8,456 (18/11/2022)
+
+Author: slibdesign.com
