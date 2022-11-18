@@ -6,6 +6,6 @@ Alternatively, create your own [custom WordPress child theme](https://childtheme
 
 Project start: April 2020
 
-Number of child themes created: 8,456 (18/11/2022)
+Number of child themes created: 8,456 (as of November 2022)
 
 Author: slibdesign.com
