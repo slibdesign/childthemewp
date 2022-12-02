@@ -14,8 +14,6 @@ seven of the most popular child themes created on childthemewp.com
 * [Twenty Seventeen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentyseventeen-child)
 * [Twenty Sixteen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentysixteen-child)
 
-[custom wordpress child theme generator tool](https://childthemewp.com/create-custom-child-theme/) or browse the library [childthemewp.com](https://childthemewp.com)
-
 ![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
 
 ![homepage](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png "homepage")
