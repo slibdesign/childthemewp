@@ -14,6 +14,8 @@ in 2019 i decided to build the largest wordpress child theme library in the worl
 * [Twenty Seventeen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentyseventeen-child)
 * [Twenty Sixteen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentysixteen-child)
 
+childthemewp also has a 💎 [special generation tool](https://childthemewp.com/create-custom-child-theme/) to create any custom child theme
+
 ## 2 previews
 
 ![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
@@ -36,6 +38,7 @@ text domain: twentytwentyone-child
 */`
 
 **functions.php**
+
 `<?php
 add_action( 'wp_enqueue_scripts', 'enqueue_twentytwentyone_child' );
 function enqueue_twentytwentyone_child()
@@ -47,19 +50,23 @@ function enqueue_twentytwentyone_child()
 ?>`
 
 **screenshot.png**
+
 `<img src="./screenshot.png" alt="twentytwentyone child theme screenshot">`
 
 **script.js**
+
 `//blank`
 
 ## web development
 
-once installed in the wordpress dashboard a developer can edit the child theme with their code changes.
+once installed in the wordpress dashboard a developer can edit 🏀 the child theme with their code changes. they can do this within the wordpress dashboard under appearances or by using their favourite code editor 🍿.
 
-### project information
+### project data
 
-project start: april 2020
+start date: april 2020
 
-number of child themes created:👨‍🚀 +8,456 (as of november 2022)
+number of visitors 🌏: 654,061
 
-made by ben 🌏 [slibdesign.com](https://www.slibdesign.com)
+number of downloads 🚀: 642,447
+
+made by 😎: ben [www.slibdesign.com](https://www.slibdesign.com)
