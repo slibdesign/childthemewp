@@ -18,7 +18,12 @@ childthemewp also has a 💎 [special generation tool](https://childthemewp.com/
 
 ## 2 previews
 
+_homepage_
+
 ![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
+
+---
+_twenty twenty child theme page_
 
 ![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png "twenty twenty child theme")
 
