@@ -30,7 +30,7 @@ there is also a 💎 [special generation tool](https://childthemewp.com/create-c
 ![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png "twenty twenty child theme")
 
 ---
-*experienced developers can create their own_ ~ create & download .zip with their author name and website*
+*experienced developers can create their own ~ create & download .zip with a unique author name and website url*
 
 ![create a custom wordpress child theme tool](https://childthemewp.com/wp-content/uploads/custom-tool.png "custom tool")
 
