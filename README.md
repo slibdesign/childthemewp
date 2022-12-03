@@ -4,7 +4,9 @@
 
 in 2019 i decided to build the largest wordpress child theme library in the world. my aim was and still is to make it easier for web developers and entrepreneurs around the world, to find and use wordpress child themes. appyling a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) to a wordpress website future proofs 🚑 it and makes it easier to update!
 
-## seven ⭐ popular child themes created on childthemewp.com
+## seven ⭐ popular child themes
+
+created on childthemewp.com
 
 * [Twenty Twenty Three](https://github.com/slibdesign/ChildThemeWP/tree/main/twentytwentythree-child)
 * [Twenty Twenty Two](https://github.com/slibdesign/ChildThemeWP/tree/main/twentytwentytwo-child)
