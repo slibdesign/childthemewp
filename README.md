@@ -2,7 +2,7 @@
 
 [Demo](https://childthemewp.com/)
 
-in 2019 i decided to build the largest wordpress child theme library in the world. my aim was and still is to make it easier for web developers and entrepreneurs around the world, to find and use wordpress child themes. there are lots of benefits of using a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/), but generally speaking using one is best to future proof 🚑 your website!
+in 2019 i decided to build the largest wordpress child theme library in the world. my aim was and still is to make it easier for web developers and entrepreneurs around the world, to find and use wordpress child themes. appyling a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) to a wordpress website future proofs 🚑 it!
 
 ## seven ⭐ popular child themes created on childthemewp.com
 
