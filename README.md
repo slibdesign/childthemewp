@@ -55,17 +55,17 @@ function enqueue_twentytwentyone_child()
 
 **script.js**
 
-`//blank`
+`//blank file`
 
 ## web development
 
-once installed in the wordpress dashboard a developer can edit 🏀 the child theme with their code changes. they can do this within the wordpress dashboard under appearances or by using their favourite code editor 🍿.
+once a child theme is installed in the wordpress dashboard a developer can edit 🏀 the child theme with their code changes. the developer does this within the wordpress dashboard under appearances or by using their favourite code editor 🍿.
 
 ### project data
 
 start date: april 2020
 
-number of visitors 🌏: 654,061
+number of international visitors 🌏: 654,061
 
 number of downloads 🚀: 642,447
 
