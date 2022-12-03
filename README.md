@@ -69,6 +69,26 @@ function enqueue_twentytwentyone_child()<br />
 
 `//blank file`
 
+** readme.md **
+`# thank you
+
+name: twenty twenty one child
+created: 3 December 2022 19:07
+url: https://childthemewp.com/twenty-twenty-one/
+
+### project
+[childthemewp.com](https://childthemewp.com) started in april 2020. since launch over 🚀  642,447 child themes have been downloaded by over 🌏 654,061 visitors. 
+thank you for being part of the project.
+
+### contributor
+[Ben](slibdesign.com) via [GitHub](https://github.com/slibdesign/)
+  
+### license
+gnu general public license v3
+
+free software`
+
+
 ## web development
 
 once a child theme is installed in the wordpress dashboard a developer can edit 🏀 the child theme with their code changes. the developer can do this in the wordpress dashboard (apperances >> edit) or by using their favourite code editor 🍿.
