@@ -41,8 +41,8 @@ each child theme contains 4 files 📁
 **style.css**
 
 `/*
-⋅⋅theme name: twenty twenty one child⋅⋅
-⋅⋅author: childthemewp.com⋅⋅
+  theme name: twenty twenty one child  
+  author: childthemewp.com  
 author uri: https://childthemewp.com/twenty-twenty-one/
 description: twenty twenty one wordpress child theme.
 template: twentytwentyone
