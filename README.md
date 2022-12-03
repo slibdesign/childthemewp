@@ -41,12 +41,12 @@ each child theme contains 4 files 📁
 **style.css**
 
 /*
-theme name: twenty twenty one child__
-author: childthemewp.com__
-author uri: https://childthemewp.com/twenty-twenty-one/__
-description: twenty twenty one wordpress child theme.__
-template: twentytwentyone__
-text domain: twentytwentyone-child__
+theme name: twenty twenty one child<br />
+author: childthemewp.com<br />
+author uri: https://childthemewp.com/twenty-twenty-one/<br />
+description: twenty twenty one wordpress child theme.<br />
+template: twentytwentyonebr<br/>
+text domain: twentytwentyone-child<br />
 */
 
 **functions.php**
