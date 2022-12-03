@@ -40,14 +40,14 @@ each child theme contains 4 files 📁
 
 **style.css**
 
-/*<br>
-theme name: twenty twenty one child<br />
-author: childthemewp.com<br />
-author uri: https://childthemewp.com/twenty-twenty-one/<br />
-description: twenty twenty one wordpress child theme.<br />
-template: twentytwentyonebr<br/>
-text domain: twentytwentyone-child<br />
-*/
+```
+theme name: twenty twenty one child
+author: childthemewp.com
+author uri: https://childthemewp.com/twenty-twenty-one/
+description: twenty twenty one wordpress child theme.
+template: twentytwentyonebr
+text domain: twentytwentyone-child
+```
 
 **functions.php**
 
@@ -71,7 +71,7 @@ function enqueue_twentytwentyone_child()
 
 `//blank file`
 
-** readme.md **
+**readme.md**
 
 ```
 # thank you
