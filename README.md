@@ -22,12 +22,12 @@ there is also a 💎 [special generation tool](https://childthemewp.com/create-c
 
 *homepage ~ search for...*
 
-![homepage](https://childthemewp.com/wp-content/uploads/homepage.png?v=2 "homepage")
+![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
 
 ---
 *twenty twenty child theme page ~ free .zip download*
 
-![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png?v=2 "twenty twenty child theme")
+![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png "twenty twenty child theme")
 
 ---
 *experienced developers can create their own ~ free download .zip*
