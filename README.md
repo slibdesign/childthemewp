@@ -31,6 +31,7 @@ there is also a 💎 [special generation tool](https://childthemewp.com/create-c
 
 ---
 *experienced developers can create their own_ ~ create & download .zip with their author name and website*
+
 ![create a custom wordpress child theme tool](https://childthemewp.com/wp-content/uploads/custom-tool.png "custom tool")
 
 ## child theme code example
