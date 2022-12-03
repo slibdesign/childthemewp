@@ -70,7 +70,8 @@ function enqueue_twentytwentyone_child()<br />
 `//blank file`
 
 ** readme.md **
-`# thank you
+
+```# thank you
 
 name: twenty twenty one child
 created: 3 December 2022 19:07
@@ -86,8 +87,9 @@ thank you for being part of the project.
 ### license
 gnu general public license v3
 
-free software`
+free software```
 
+---
 
 ## web development
 
