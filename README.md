@@ -152,13 +152,3 @@ community 💛:
 * [Owell](https://www.owell.co.jp/)
 * [WI Garage Doors LLC](https://wigaragedoorsrepair.com/)
 * [Iceland Ice Skating Rink](https://valleyskating.com/)
-
-
-
-
-
-
-
-
-
-
