@@ -40,7 +40,7 @@ each child theme contains 4 files 📁
 
 **style.css**
 
-/*
+/*<br>
 theme name: twenty twenty one child<br />
 author: childthemewp.com<br />
 author uri: https://childthemewp.com/twenty-twenty-one/<br />
@@ -51,15 +51,15 @@ text domain: twentytwentyone-child<br />
 
 **functions.php**
 
-`<?php
-add_action( 'wp_enqueue_scripts', 'enqueue_twentytwentyone_child' );
-function enqueue_twentytwentyone_child()
-{
-      wp_enqueue_style('twentytwentyone-css', './twentytwentyone/style.css' );
-      wp_enqueue_style('twentytwentyone-child-css', './twentytwentyone-child/style.css');
-      wp_enqueue_script('twentytwentyone-child-js', './twentytwentyone-child/js/script.js', array( 'jquery' ), '1.0', true );
-}
-?>`
+<?php<br />
+add_action( 'wp_enqueue_scripts', 'enqueue_twentytwentyone_child' );<br />
+function enqueue_twentytwentyone_child()<br />
+{<br />
+      wp_enqueue_style('twentytwentyone-css', './twentytwentyone/style.css' );<br />
+      wp_enqueue_style('twentytwentyone-child-css', './twentytwentyone-child/style.css');<br />
+      wp_enqueue_script('twentytwentyone-child-js', './twentytwentyone-child/js/script.js', array( 'jquery' ), '1.0', true );<br />
+}<br />
+?>
 
 **screenshot.png**
 
