@@ -88,7 +88,7 @@ community 💛:
 * [Politecnico Milano 1863 Dipartimento Di Architettura E Studi Urbani](https://www.dastu.polimi.it/)
 * [World Accelerator](https://www.world.com/)
 * [Rising Stars in Biomedical](https://risingstarsbiomed.mit.edu/)
-* [EDM Identity](https://edmidentity.com/
+* [EDM Identity](https://edmidentity.com/)
 * [Wild Goose Festival](https://wildgoosefestival.org/)
 * [Mattereum](https://mattereum.com/)
 * [Saale Schule](https://www.saaleschule.de/)
