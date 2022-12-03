@@ -22,7 +22,7 @@ there is also a 💎 [special generation tool](https://childthemewp.com/create-c
 
 *homepage ~ search for...*
 
-![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
+![homepage](https://childthemewp.com/wp-content/uploads/homepage.png?v=2 "homepage")
 
 ---
 *twenty twenty child theme page ~ free .zip download*
