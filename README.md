@@ -18,16 +18,21 @@ created on childthemewp.com
 
 there is also a 💎 [special generation tool](https://childthemewp.com/create-custom-child-theme/) to create any custom child theme
 
-## 2 previews
+## previews
 
-_homepage_
+_homepage ~ search for..._
 
 ![homepage](https://childthemewp.com/wp-content/uploads/homepage.png "homepage")
 
 ---
-_twenty twenty child theme page_
+_twenty twenty child theme page ~ download .zip_
 
 ![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png "twenty twenty child theme")
+
+---
+_experienced developers can create their own_ ~ create & download .zip_
+![create a custom wordpress child theme tool](https://childthemewp.com/wp-content/uploads/custom-tool.png "custom tool")
+
 
 ## child theme code example
 
