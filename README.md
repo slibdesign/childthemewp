@@ -16,7 +16,7 @@ created on childthemewp.com
 * [Twenty Seventeen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentyseventeen-child)
 * [Twenty Sixteen](https://github.com/slibdesign/ChildThemeWP/tree/main/twentysixteen-child)
 
-childthemewp also has a 💎 [special generation tool](https://childthemewp.com/create-custom-child-theme/) to create any custom child theme
+there is also a 💎 [special generation tool](https://childthemewp.com/create-custom-child-theme/) to create any custom child theme
 
 ## 2 previews
 
