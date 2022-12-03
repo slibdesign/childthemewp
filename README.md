@@ -40,35 +40,26 @@ each child theme contains 4 files 📁
 
 **style.css**
 
-
+`/*
 theme name: twenty twenty one child
-
 author: childthemewp.com
-
 author uri: https://childthemewp.com/twenty-twenty-one/
-
 description: twenty twenty one wordpress child theme.
-
 template: twentytwentyone
-
 text domain: twentytwentyone-child
-
+*/`
 
 **functions.php**
 
+`<?php
 add_action( 'wp_enqueue_scripts', 'enqueue_twentytwentyone_child' );
-
 function enqueue_twentytwentyone_child()
 {
-
       wp_enqueue_style('twentytwentyone-css', './twentytwentyone/style.css' );
-
       wp_enqueue_style('twentytwentyone-child-css', './twentytwentyone-child/style.css');
-
       wp_enqueue_script('twentytwentyone-child-js', './twentytwentyone-child/js/script.js', array( 'jquery' ), '1.0', true );
-      
 }
-
+?>`
 
 **screenshot.png**
 
@@ -76,7 +67,7 @@ function enqueue_twentytwentyone_child()
 
 **script.js**
 
-//blank file
+`//blank file`
 
 ## web development
 
