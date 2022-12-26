@@ -37,19 +37,19 @@ template: twentytwentyone
 
 ```
 <?php
-add_action( 'wp_enqueue_scripts', 'wp_child_theme' );
+add_action( 'wp_enqueue_scripts', 'wp_child_theme');
 function wp_child_theme()
 {
-      wp_enqueue_style('parent-stylesheet', './twentytwentyone/style.css');
-      wp_enqueue_style('child-stylesheet', './twentytwentyone-child/style.css');
-      wp_enqueue_script('child-scripts', './twentytwentyone-child/js/view.js', array( 'jquery' ), '6.1.1', true);<br />
+      wp_enqueue_style('parent-stylesheet', './twentytwenty/style.css');
+      wp_enqueue_style('child-stylesheet', './twentytwenty-child/style.css');
+      wp_enqueue_script('child-scripts', './twentytwenty-child/js/view.js', array( 'jquery' ), '6.1.1', true);<br />
 }
 ?>
 ```
 
 **screenshot.png**
 
-`<img src="./screenshot.png" alt="twentytwentyone child theme screenshot">`
+`<img src="./screenshot.png" alt="twentytwenty child theme screenshot">`
 
 **script.js**
 
