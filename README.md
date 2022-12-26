@@ -22,17 +22,17 @@ there is also a 💎 [special generation tool](https://childthemewp.com/create-c
 
 *homepage ~ search for...*
 
-![homepage](https://childthemewp.com/wp-content/uploads/homepage.png?v=2 "homepage")
+![homepage](https://childthemewp.com/wp-content/uploads/homepage-cookieless.png "homepage")
 
 ---
 *twenty twenty child theme page ~ free .zip download*
 
-![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twentytwenty-child.png?v=2 "twenty twenty child theme")
+![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twenty-twenty-two.png "twenty twenty Two child theme")
 
 ---
 *experienced developers can create their own ~ free download .zip*
 
-![create a custom wordpress child theme tool](https://childthemewp.com/wp-content/uploads/custom-tool.png "custom tool")
+![create a wordpress child theme tool](https://childthemewp.com/wp-content/uploads/create-child-theme.png "using our custom tool")
 
 ## child theme code example
 
@@ -70,28 +70,6 @@ function enqueue_twentytwentyone_child()
 **script.js**
 
 `//blank file`
-
-**readme.md**
-
-```
-# thank you
-
-name: twenty twenty one child
-created: 3 December 2022 19:07
-url: https://childthemewp.com/twenty-twenty-one/
-
-### project
-[childthemewp.com](https://childthemewp.com) started in april 2020. since launch over 🚀  642,447 child themes have been downloaded by over 🌏 654,061 visitors. 
-thank you for being part of the project.
-
-### contributor
-[Ben](slibdesign.com) via [GitHub](https://github.com/slibdesign/)
-  
-### license
-gnu general public license v3
-
-free software 
-```
 
 ---
 
