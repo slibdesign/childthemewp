@@ -9,12 +9,12 @@ in 2019 i decided to build the largest wordpress child theme library in the worl
 *Download a wordpress child theme
 our website is cookieless and we believe in a cookie free web future*
 
-![homepage](https://childthemewp.com/wp-content/uploads/twenty-twenty.png "homepage")
+![homepage](https://childthemewp.com/wp-content/uploads/homepage-cookieless.png "homepage")
 
 ---
 *twenty twenty child theme page ~ free .zip download*
 
-![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twenty-twenty-two.png "twenty twenty Two child theme")
+![twenty twenty wordpress child theme web page](https://childthemewp.com/wp-content/uploads/twenty-twenty.png "twenty twenty Two child theme")
 
 ---
 *experienced developers can create their own ~ free download .zip*
@@ -29,23 +29,20 @@ each child theme contains 4 files 📁
 
 ```
 theme name: twenty twenty one child
-author: childthemewp.com
-author uri: https://childthemewp.com/twenty-twenty-one/
-description: twenty twenty one wordpress child theme.
-template: twentytwentyonebr
-text domain: twentytwentyone-child
+template: twentytwentyone
+
 ```
 
 **functions.php**
 
 ```
 <?php
-add_action( 'wp_enqueue_scripts', 'enqueue_twentytwentyone_child' );
-function enqueue_twentytwentyone_child()
+add_action( 'wp_enqueue_scripts', 'wp_child_theme' );
+function wp_child_theme()
 {
-      wp_enqueue_style('twentytwentyone-css', './twentytwentyone/style.css' );
-      wp_enqueue_style('twentytwentyone-child-css', './twentytwentyone-child/style.css');
-      wp_enqueue_script('twentytwentyone-child-js', './twentytwentyone-child/js/script.js', array( 'jquery' ), '1.0', true );<br />
+      wp_enqueue_style('parent-stylesheet', './twentytwentyone/style.css');
+      wp_enqueue_style('child-stylesheet', './twentytwentyone-child/style.css');
+      wp_enqueue_script('child-scripts', './twentytwentyone-child/js/view.js', array( 'jquery' ), '6.1.1', true);<br />
 }
 ?>
 ```
