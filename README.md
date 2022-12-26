@@ -6,9 +6,10 @@ in 2019 i decided to build the largest wordpress child theme library in the worl
 
 ## previews
 
-*homepage ~ search for...*
+*Download a wordpress child theme
+our website is cookieless and we believe in a cookie free web future*
 
-![homepage](https://childthemewp.com/wp-content/uploads/homepage-cookieless.png "homepage")
+![homepage](https://childthemewp.com/wp-content/uploads/twenty-twenty.png "homepage")
 
 ---
 *twenty twenty child theme page ~ free .zip download*
